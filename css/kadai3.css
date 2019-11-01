@@ -1,0 +1,17 @@
+p{font-weight: bold}
+h1{color: red;}
+h1{text-align: center}
+h1{background-color: black;}
+body{background-image: url("../image/03.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover
+        
+}
+h2{color: red;}
+h2{text-align: center}
+h2{background-color: navy;}
+P{font-family: inherit}
+h3{color: crimson}
+p{color: white}
