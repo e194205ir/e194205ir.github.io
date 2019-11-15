@@ -1,0 +1,17 @@
+
+   body{background-image: url("../image/03.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover 
+}
+
+h1{color: coral}
+h1{text-align: center}
+h1{background-color: black}
+h2{color: darkorange}
+h2{background-color: black}
+h2{text-align: center}
+table{background-color:aqua}
+ol{background-image:url("../image/04.jpeg")}
+    
