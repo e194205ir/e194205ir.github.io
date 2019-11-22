@@ -1,0 +1,23 @@
+p{font-weight: bold}
+h1#namae{color: red;}
+h1#namae{text-align: center}
+h1#namae{background-color: black;}
+h1#rinnk{color: darkorange} 
+h1#rinnk{text-align: center} 
+h1#rinnk{background-color: darkslateblue}
+
+
+body{background-image: url("../image/03.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover
+        
+}
+h2#yakyu{color: cyan}
+h2#yakyu{text-align: center}
+h2#yakyu{background-color: coral}
+
+h2#higedann{color: red;}
+h2#higedann{text-align: center}
+h2#higedann{background-color: navy;}
